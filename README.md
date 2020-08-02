@@ -1,2 +1,2 @@
 # AlgorithmNotes
-what？
+Whatever
